@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cumaterso.github.io/sitemap
+Sitemap: https://cumaterso.github.io/app/sitemap
+Sitemap: https://cumaterso.github.io/assets/sitemap
+Sitemap: https://cumaterso.github.io/css/sitemap
+Sitemap: https://cumaterso.github.io/includes/sitemap
+Sitemap: https://cumaterso.github.io/item/sitemap
+Sitemap: https://cumaterso.github.io/src/sitemap
